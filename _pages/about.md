@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Welcome!
 
 I am a first-year PhD student at the **University of Barcelona** and the **Centre d'Estudis d'Opinió**, working under the supervision of *Jordi Muñoz* and *Xavier Fernández*. My research focuses on **survey methodology**, with a particular interest in **panel data**, **sample representativity**, and **survey experiments**. I also have experience in **R programming** and a bit of **Natural Language Processing**.
 
