@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Joel Ardiaca"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Joel Ardiaca"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "joelardiaca/joelardiaca.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "joelardiaca.png"
   name             : "Joel Ardiaca Arnau"
   pronouns         : # example: "she/her"  
   bio              : "Estadístic i sociòleg"
