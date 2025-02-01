@@ -5,29 +5,24 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
 <h2 style="font-size: 24px; font-weight: bold; color: #494e52; margin-top: 20px;">
     Working Papers
 </h2>
-
 
 {% for paper in site.working_papers reversed %}
   <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
     {{ paper.title }}
   </p>
-  <p style="margin-top: 0;">
-    <a href="{{ paper.link }}" style="font-size: 16px; text-decoration: none; color: #0077cc;">Link to paper</a> | 
-    <a href="{{ paper.slides }}" style="font-size: 16px; text-decoration: none; color: #0077cc;">Link to slides</a>
-  </p>
 {% endfor %}
 
+<h2 style="font-size: 24px; font-weight: bold; color: #494e52; margin-top: 20px;">
+    Publications
+</h2>
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+    <a href="{{ post.url }}" style="text-decoration: none; color: black;">{{ post.citation }}</a>
+  </p>
 {% endfor %}
 
 
