@@ -20,8 +20,8 @@ author_profile: true
 </h2>
 
 {% for post in site.publications reversed %}
-  <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
-    <a href="{{ post.url }}" style="text-decoration: none; color: black;">{{ post.citation }}</a>
+  <p style="font-size: 18px; margin-bottom: 10px;">
+    <a href="{{ post.url }}" style="text-decoration: none;">{{ post.citation }}</a>
   </p>
 {% endfor %}
 
