@@ -10,8 +10,8 @@ author_profile: true
 </h2>
 
 {% for paper in site.working_papers reversed %}
-  <p style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">
-    {{ paper.title }}
+  <p style="font-size: 16px; margin-bottom: 10px;">
+    <a href="{{ paper.url }}" style="text-decoration: none; color: #494e52;">{{ paper.citation }}</a>
   </p>
 {% endfor %}
 
