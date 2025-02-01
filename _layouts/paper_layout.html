@@ -14,7 +14,9 @@ layout: default
 <p><strong>Presented at:</strong> {{ page.presented_at }}</p>
 {% endif %}
 
+{% if page.link %}
 <p><strong><a href="{{ page.link }}" style="text-decoration: none; color: #0077cc;">Link to paper</a></strong></p>
+{% endif %}
 
 {% if page.slides %}
 <p><strong><a href="{{ page.slides }}" style="text-decoration: none; color: #0077cc;">Link to slides</a></strong></p>
