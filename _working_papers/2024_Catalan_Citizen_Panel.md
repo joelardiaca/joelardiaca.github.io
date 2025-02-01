@@ -3,7 +3,7 @@ title: "Improving the Catalan Citizen Panel through Randomized experiments and A
 date: 2024-02-01
 authors: "Joel Ardiaca, Jordi Muñoz, Raül Tormos"
 citation: 'Muñoz, J., Ardiaca, J., Tormos, R. Improving the Catalan Citizen Panel through Randomized experiments and Adaptive Survey Design'
-presented_at: "Jornades de Comportament Polític i Opinió Pública (JCPOP 2024)"
+presented_at: "Jornades de Comportament Polític i Opinió Pública (JCPOP) (Barcelona, November 2024)"
 slides: /files/slides_panel_jcpop2024.pdf
 permalink: /research/2024_Catalan_Citizen_Panel/
 layout: paper_layout
