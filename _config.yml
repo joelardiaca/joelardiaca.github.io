@@ -217,6 +217,12 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /research/:collection/:title/
+  working_papers:
+    output: true
+    permalink: /research/:collection/:title/
   portfolio:
     output: true
     permalink: /:collection/:path/
