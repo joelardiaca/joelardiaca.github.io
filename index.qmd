@@ -1,7 +1,32 @@
 ---
-title: "personal_website"
+title: "Joel Ardiaca"
+about:
+  template: jolla
+  image: images/Foto_corporativa_rodona.png
 ---
 
-This is a Quarto website.
+*PhD student in Political Science · Data Analyst at Centre d'Estudis d'Opinió*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div style="margin-top: 15px; display: flex; gap: 20px; align-items: center;">
+
+<a href="https://github.com/joelardiaca" target="_blank">
+  <img src="images/github_logo.svg" alt="GitHub" style="height: 22px;">
+</a>
+
+<a href="https://bsky.app/profile/joelardiaca.bsky.social" target="_blank">
+  <img src="images/bluesky.svg" alt="Bluesky" style="height: 22px;">
+</a>
+
+<a href="https://www.linkedin.com/in/joel-ardiaca-arnau-516791174/" target="_blank">
+  <img src="images/linkedin_logo.svg" alt="Linkedin" style="height: 22px;">
+</a>
+
+<a href="https://orcid.org/0009-0004-4937-8941" target="_blank">
+  <img src="images/ORCID-iD_icon.svg" alt="ORCID" style="height: 22px;">
+</a>
+
+<a href="https://scholar.google.com/citations?user=GXeei6sAAAAJ&hl=ca" target="_blank">
+  <img src="images/google_scholar.svg" alt="Google_Scholar" style="height: 22px;">
+</a>
+
+</div>
