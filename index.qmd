@@ -5,9 +5,11 @@ about:
   image: images/Foto_corporativa_rodona.png
 ---
 
-*PhD student in Political Science · Data Analyst at Centre d'Estudis d'Opinió*
+*PhD student in Political Science*
 
-<div style="margin-top: 15px; display: flex; gap: 20px; align-items: center;">
+*Data Analyst at Centre d'Estudis d'Opinió*
+
+<div style="margin-top: 15px; display: flex; gap: 20px; align-items: center; justify-content: center">
 
 <a href="https://github.com/joelardiaca" target="_blank">
   <img src="images/github_logo.svg" alt="GitHub" style="height: 22px;">
