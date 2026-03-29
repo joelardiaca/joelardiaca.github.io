@@ -1,0 +1,44 @@
+---
+title: "Reading List 2025"
+date: 2026-03-29
+description: "Books I read in 2025."
+categories: [books]
+---
+
+In 2025 I tried to combine research-related material with more general non-fiction and some fiction. *Adaptive Survey Design* was particularly relevant for my doctoral work, while my non-fiction reading covered a range of topics, most frequently touching on social inequality and the societal effects of new technologies. I especially enjoyed books by Patrick Radden Keefe, Jonathan Haidt, Ingrid Robeyns, and George Monbiot & Peter Hutchison.
+
+I also read several novels, with *Cien años de soledad* by Gabriel García Márquez and Philip Roth’s *The Plot Against America* being clear highlights — the latter probably my favourite book of the year.
+
+---
+
+## 📚 Books
+
+- *Una família americana* — J. D. Vance  
+- ⭐ *Cien años de soledad* — Gabriel García Márquez  
+- *Cómo escribir y publicar una tesis doctoral* — Jaime Rivera Camino  
+- *Esclavos del algoritmo* — Laura G. De Rivera  
+- *La idea d'Europa* — George Steiner  
+- *Una breu història de la igualtat* — Thomas Piketty  
+- *Paradojas* — Gareth Southwell  
+- *Autocracia S.A.* — Anne Applebaum  
+- ⭐ *The invisible doctrine. The secret history of neoliberalism* — George Monbiot & Peter Hutchison  
+- *Yo vengo del sur. El legado de una vida política* — Pepe Mujica  
+- ⭐ *Limitarianism. The case against extreme wealth* — Ingrid Robeyns  
+- *Trabajar: un amor no correspondido* — Sarah Jaffe  
+- *El càstig* — Guillem Sala  
+- ⭐ *Adaptive Survey Design* — Barry Schouten, Andy Peytchev & James Wagner  
+- *Cómo mienten los mapas* — Mark Monmonier  
+- ⭐ *L'imperi del dolor. La història secreta de la dinastia Sackler* — Patrick Radden Keefe  
+- *Digitalización Democrática* — Simona Levi  
+- *Hijos de la medianoche* — Salman Rushdie  
+- *Filosofia per a exploradors polars* — Erling Kagge  
+- *La utilidad de lo inútil* — Nuccio Ordine  
+- ⭐ *La conjura contra América* — Philip Roth  
+- *Deep Work* — Cal Newport  
+- *Moral Ambition* — Rutger Bregman  
+- ⭐ *La generación ansiosa* — Jonathan Haidt  
+- *Slow Productivity* — Cal Newport  
+- *Calling Bullshit* — Carl T. Bergstrom & Jevin D. West  
+- *¡Reconquista tu tiempo!* — Jenny Odell  
+
+---
