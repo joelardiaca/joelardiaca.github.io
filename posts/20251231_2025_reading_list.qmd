@@ -1,13 +1,13 @@
 ---
-title: "Reading List 2025"
-date: 2026-03-29
-description: "Books I read in 2025."
+title: "What I Read in 2025"
+date: 2025-12-31
+description: "A year of balancing academic reading with non-fiction and a few memorable novels."
 categories: [books]
 ---
 
-In 2025 I tried to combine research-related material with more general non-fiction and some fiction. *Adaptive Survey Design* was particularly relevant for my doctoral work, while my non-fiction reading covered a range of topics, most frequently touching on social inequality and the societal effects of new technologies. I especially enjoyed books by Patrick Radden Keefe, Jonathan Haidt, Ingrid Robeyns, and George Monbiot & Peter Hutchison.
+In 2025 I tried to combine research-related material with more general non-fiction and some fiction (mostly to disconnect a bit). *Adaptive Survey Design* was particularly relevant for my doctoral work, while my non-fiction reading ended up focusing quite a bit on social inequality and the societal effects of new technologies. I especially enjoyed books by Patrick Radden Keefe (again, after *Say Nothing*) and Jonathan Haidt (who has changed my point of view on social media). I also came across books by Ingrid Robeyns and George Monbiot & Peter Hutchison in a very nice bookstore in Bristol.
 
-I also read several novels, with *Cien años de soledad* by Gabriel García Márquez and Philip Roth’s *The Plot Against America* being clear highlights — the latter probably my favourite book of the year.
+I also read several novels. *Cien años de soledad* by Gabriel García Márquez and Philip Roth’s *The Plot Against America* were probably the highlights.
 
 ---
 

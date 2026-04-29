@@ -1,0 +1,50 @@
+---
+title: "What I Read in 2024"
+date: 2024-12-31
+description: "A mix of non-fiction, political analysis, and a few novels."
+categories: [books]
+---
+
+Although I didn’t have much time to read in 2024, I still came across a few books that were definitely worth it. In non-fiction, two stand out clearly above the rest: *Stolen Focus* by Johann Hari and *Weapons of Math Destruction* by Cathy O’Neil, both quite influential in shaping how I think about new technologies.
+
+I was also particularly struck by *The Trading Game* by Gary Stevenson, which sits somewhere between fiction and non-fiction. Despite being autobiographical, it offers a very insightful look into how financial markets work. It also introduced me to Stevenson as a character, which I found fascinating.
+
+For work, books like *La cocina electoral en España* and *Democracia de trincheras* were especially useful in helping me better understand surveys and political behaviour.
+
+Finally, in terms of fiction, the standout novel of the year was *Fortuna*, both for its content and the way it is written.
+
+---
+
+## 📚 Books
+
+- ⭐ *El valor de la atención* — Johann Hari  
+- *La llengua del Tercer Reich* — Victor Klemperer  
+- ⭐ *Armas de destrucción matemática* — Cathy O’Neil  
+- *L'última colònia* — Philippe Sands  
+- *Cómo funciona el mundo* — Vaclav Smil  
+- ⭐ *Fortuna* — Hernán Díaz  
+- *Artificial* — Mariano Sigman y Santiago Bilinkis  
+- *¿Deberíamos comer carne?* — Vaclav Smil  
+- *Quan el món es va trencar* — John Boyne  
+- *Una vida a les muntanyes* — Abraham Orriols  
+- *Qui no vulgui pols…* — Toni Rodon  
+- *La ciutat i les seves muralles incertes* — Haruki Murakami  
+- *Europa. Una història personal* — Timothy Garton Ash  
+- *Después del trabajo* — Helen Hester y Nick Srnicek  
+- *Atlas novelado de los volcanes de Islandia* — Leonardo Piccione  
+- *Size* — Vaclav Smil  
+- ⭐ *El juego del dinero* — Gary Stevenson  
+- *Cómo Islandia cambió el mundo* — Egill Bjarnason  
+- *España, el pacto y la furia* — Enric Juliana  
+- *El descontento democrático* — Michael J. Sandel  
+- *La cocina electoral en España* — José Pablo Ferrándiz y Francisco Camas García  
+- *Novela de ajedrez* — Stefan Zweig  
+- *La conciencia contada por un sápiens a un neandertal* — Juan José Millás y Juan Luis Arsuaga  
+- *Del silenci* — Sergi Bellver  
+- *Veinticuatro horas en la vida de una mujer* — Stefan Zweig  
+- *Nexus* — Yuval Noah Harari  
+- *Democracia de trincheras* — Lluis Orriols  
+- *Los ricos no pagan IRPF* — Carlos Cruzado y José M. Molinedo  
+- *Bournville* — Jonathan Coe  
+
+---

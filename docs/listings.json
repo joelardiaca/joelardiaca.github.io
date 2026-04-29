@@ -1,8 +1,9 @@
 [
   {
-    "listing": "/notes.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/20260329_2025_reading_list.html"
+      "/posts/20251231_2025_reading_list.html",
+      "/posts/20241231_2024_reading_list.html"
     ]
   }
 ]
