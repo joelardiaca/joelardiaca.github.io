@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "posts/20251231_2025_reading_list.html",
-    "href": "posts/20251231_2025_reading_list.html",
-    "title": "What I Read in 2025",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "In 2025 I tried to combine research-related material with more general non-fiction and some fiction (mostly to disconnect a bit). Adaptive Survey Design was particularly relevant for my doctoral work, while my non-fiction reading ended up focusing quite a bit on social inequality and the societal effects of new technologies. I especially enjoyed books by Patrick Radden Keefe (again, after Say Nothing) and Jonathan Haidt (who has changed my point of view on social media). I also came across books by Ingrid Robeyns and George Monbiot & Peter Hutchison in a very nice bookstore in Bristol.\nI also read several novels. Cien años de soledad by Gabriel García Márquez and Philip Roth’s The Plot Against America were probably the highlights."
+    "text": "The entries below mirror the research articles section of my CV. Peer-reviewed papers have dedicated pages with room to add abstracts, links, and related material later on."
   },
   {
-    "objectID": "posts/20251231_2025_reading_list.html#books",
-    "href": "posts/20251231_2025_reading_list.html#books",
-    "title": "What I Read in 2025",
-    "section": "📚 Books",
-    "text": "📚 Books\n\nUna família americana — J. D. Vance\n\n⭐ Cien años de soledad — Gabriel García Márquez\n\nCómo escribir y publicar una tesis doctoral — Jaime Rivera Camino\n\nEsclavos del algoritmo — Laura G. De Rivera\n\nLa idea d’Europa — George Steiner\n\nUna breu història de la igualtat — Thomas Piketty\n\nParadojas — Gareth Southwell\n\nAutocracia S.A. — Anne Applebaum\n\n⭐ The invisible doctrine. The secret history of neoliberalism — George Monbiot & Peter Hutchison\n\nYo vengo del sur. El legado de una vida política — Pepe Mujica\n\n⭐ Limitarianism. The case against extreme wealth — Ingrid Robeyns\n\nTrabajar: un amor no correspondido — Sarah Jaffe\n\nEl càstig — Guillem Sala\n\n⭐ Adaptive Survey Design — Barry Schouten, Andy Peytchev & James Wagner\n\nCómo mienten los mapas — Mark Monmonier\n\n⭐ L’imperi del dolor. La història secreta de la dinastia Sackler — Patrick Radden Keefe\n\nDigitalización Democrática — Simona Levi\n\nHijos de la medianoche — Salman Rushdie\n\nFilosofia per a exploradors polars — Erling Kagge\n\nLa utilidad de lo inútil — Nuccio Ordine\n\n⭐ La conjura contra América — Philip Roth\n\nDeep Work — Cal Newport\n\nMoral Ambition — Rutger Bregman\n\n⭐ La generación ansiosa — Jonathan Haidt\n\nSlow Productivity — Cal Newport\n\nCalling Bullshit — Carl T. Bergstrom & Jevin D. West\n\n¡Reconquista tu tiempo! — Jenny Odell"
+    "objectID": "research.html#peer-reviewed",
+    "href": "research.html#peer-reviewed",
+    "title": "Research",
+    "section": "Peer-Reviewed",
+    "text": "Peer-Reviewed\n\nForthcoming\n\nPublic Support for Climate Policies: Costs, Redistribution, and Ideological Divides\nGuinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides. Accepted at West European Politics.\nBridging the Age Gap: The Impact of Age-Specific Priming on Political Interest\nTormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest. Conditionally accepted at Political Science Research and Methods."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joel Ardiaca",
-    "section": "",
-    "text": "PhD student in Political Science\nData Analyst at Centre d’Estudis d’Opinió"
+    "objectID": "research.html#under-review",
+    "href": "research.html#under-review",
+    "title": "Research",
+    "section": "Under Review",
+    "text": "Under Review\n\nBackström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J. The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels. Field Methods, R&R."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "What I Read in 2025\n\n\nA year of balancing academic reading with non-fiction and a few memorable novels.\n\n\n\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Read in 2024\n\n\nA mix of non-fiction, political analysis, and a few novels.\n\n\n\n\n\nDec 31, 2024\n\n\n\n\n\nNo matching items"
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nArdiaca, J., Muñoz, J., Tormos, R. Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design: Evidence from the Catalan Citizen Panel.\nGuinjoan, M., Ardiaca, J., Falcó, A., Muñoz, J., Rodon, T., Romanin, E. Attribution is not enough: Natural Disasters, Climate Attitudes and Policy Preferences.\nArdiaca, J. Nonresponse bias in conspiracy beliefs.\nArdiaca, J., Müller, K. Political Drivers of Survey Nonresponse: The Role of Attitudes and Local Political Context."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "publications/bridging-the-age-gap.html",
+    "href": "publications/bridging-the-age-gap.html",
+    "title": "Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest",
     "section": "",
-    "text": "Open CV in PDF"
+    "text": "Tormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest. Conditionally accepted at Political Science Research and Methods."
+  },
+  {
+    "objectID": "publications/bridging-the-age-gap.html#citation",
+    "href": "publications/bridging-the-age-gap.html#citation",
+    "title": "Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest",
+    "section": "",
+    "text": "Tormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest. Conditionally accepted at Political Science Research and Methods."
+  },
+  {
+    "objectID": "publications/bridging-the-age-gap.html#abstract",
+    "href": "publications/bridging-the-age-gap.html#abstract",
+    "title": "Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest",
+    "section": "Abstract",
+    "text": "Abstract\nTo be added."
+  },
+  {
+    "objectID": "publications/bridging-the-age-gap.html#links",
+    "href": "publications/bridging-the-age-gap.html#links",
+    "title": "Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest",
+    "section": "Links",
+    "text": "Links\nTo be added."
   },
   {
     "objectID": "posts/20241231_2024_reading_list.html",
@@ -47,5 +68,68 @@
     "title": "What I Read in 2024",
     "section": "📚 Books",
     "text": "📚 Books\n\n⭐ El valor de la atención — Johann Hari\n\nLa llengua del Tercer Reich — Victor Klemperer\n\n⭐ Armas de destrucción matemática — Cathy O’Neil\n\nL’última colònia — Philippe Sands\n\nCómo funciona el mundo — Vaclav Smil\n\n⭐ Fortuna — Hernán Díaz\n\nArtificial — Mariano Sigman y Santiago Bilinkis\n\n¿Deberíamos comer carne? — Vaclav Smil\n\nQuan el món es va trencar — John Boyne\n\nUna vida a les muntanyes — Abraham Orriols\n\nQui no vulgui pols… — Toni Rodon\n\nLa ciutat i les seves muralles incertes — Haruki Murakami\n\nEuropa. Una història personal — Timothy Garton Ash\n\nDespués del trabajo — Helen Hester y Nick Srnicek\n\nAtlas novelado de los volcanes de Islandia — Leonardo Piccione\n\nSize — Vaclav Smil\n\n⭐ El juego del dinero — Gary Stevenson\n\nCómo Islandia cambió el mundo — Egill Bjarnason\n\nEspaña, el pacto y la furia — Enric Juliana\n\nEl descontento democrático — Michael J. Sandel\n\nLa cocina electoral en España — José Pablo Ferrándiz y Francisco Camas García\n\nNovela de ajedrez — Stefan Zweig\n\nLa conciencia contada por un sápiens a un neandertal — Juan José Millás y Juan Luis Arsuaga\n\nDel silenci — Sergi Bellver\n\nVeinticuatro horas en la vida de una mujer — Stefan Zweig\n\nNexus — Yuval Noah Harari\n\nDemocracia de trincheras — Lluis Orriols\n\nLos ricos no pagan IRPF — Carlos Cruzado y José M. Molinedo\n\nBournville — Jonathan Coe"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Open CV in PDF"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "What I Read in 2025\n\n\nA year of balancing academic reading with non-fiction and a few memorable novels.\n\n\n\n\n\nDec 31, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWhat I Read in 2024\n\n\nA mix of non-fiction, political analysis, and a few novels.\n\n\n\n\n\nDec 31, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joel Ardiaca",
+    "section": "",
+    "text": "PhD student in Political Science\nData Analyst at Centre d’Estudis d’Opinió"
+  },
+  {
+    "objectID": "posts/20251231_2025_reading_list.html",
+    "href": "posts/20251231_2025_reading_list.html",
+    "title": "What I Read in 2025",
+    "section": "",
+    "text": "In 2025 I tried to combine research-related material with more general non-fiction and some fiction (mostly to disconnect a bit). Adaptive Survey Design was particularly relevant for my doctoral work, while my non-fiction reading ended up focusing quite a bit on social inequality and the societal effects of new technologies. I especially enjoyed books by Patrick Radden Keefe (again, after Say Nothing) and Jonathan Haidt (who has changed my point of view on social media). I also came across books by Ingrid Robeyns and George Monbiot & Peter Hutchison in a very nice bookstore in Bristol.\nI also read several novels. Cien años de soledad by Gabriel García Márquez and Philip Roth’s The Plot Against America were probably the highlights."
+  },
+  {
+    "objectID": "posts/20251231_2025_reading_list.html#books",
+    "href": "posts/20251231_2025_reading_list.html#books",
+    "title": "What I Read in 2025",
+    "section": "📚 Books",
+    "text": "📚 Books\n\nUna família americana — J. D. Vance\n\n⭐ Cien años de soledad — Gabriel García Márquez\n\nCómo escribir y publicar una tesis doctoral — Jaime Rivera Camino\n\nEsclavos del algoritmo — Laura G. De Rivera\n\nLa idea d’Europa — George Steiner\n\nUna breu història de la igualtat — Thomas Piketty\n\nParadojas — Gareth Southwell\n\nAutocracia S.A. — Anne Applebaum\n\n⭐ The invisible doctrine. The secret history of neoliberalism — George Monbiot & Peter Hutchison\n\nYo vengo del sur. El legado de una vida política — Pepe Mujica\n\n⭐ Limitarianism. The case against extreme wealth — Ingrid Robeyns\n\nTrabajar: un amor no correspondido — Sarah Jaffe\n\nEl càstig — Guillem Sala\n\n⭐ Adaptive Survey Design — Barry Schouten, Andy Peytchev & James Wagner\n\nCómo mienten los mapas — Mark Monmonier\n\n⭐ L’imperi del dolor. La història secreta de la dinastia Sackler — Patrick Radden Keefe\n\nDigitalización Democrática — Simona Levi\n\nHijos de la medianoche — Salman Rushdie\n\nFilosofia per a exploradors polars — Erling Kagge\n\nLa utilidad de lo inútil — Nuccio Ordine\n\n⭐ La conjura contra América — Philip Roth\n\nDeep Work — Cal Newport\n\nMoral Ambition — Rutger Bregman\n\n⭐ La generación ansiosa — Jonathan Haidt\n\nSlow Productivity — Cal Newport\n\nCalling Bullshit — Carl T. Bergstrom & Jevin D. West\n\n¡Reconquista tu tiempo! — Jenny Odell"
+  },
+  {
+    "objectID": "publications/public-support-for-climate-policies.html",
+    "href": "publications/public-support-for-climate-policies.html",
+    "title": "Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides",
+    "section": "",
+    "text": "Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides. Accepted at West European Politics."
+  },
+  {
+    "objectID": "publications/public-support-for-climate-policies.html#citation",
+    "href": "publications/public-support-for-climate-policies.html#citation",
+    "title": "Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides",
+    "section": "",
+    "text": "Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides. Accepted at West European Politics."
+  },
+  {
+    "objectID": "publications/public-support-for-climate-policies.html#abstract",
+    "href": "publications/public-support-for-climate-policies.html#abstract",
+    "title": "Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides",
+    "section": "Abstract",
+    "text": "Abstract\nTo be added."
+  },
+  {
+    "objectID": "publications/public-support-for-climate-policies.html#links",
+    "href": "publications/public-support-for-climate-policies.html#links",
+    "title": "Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides",
+    "section": "Links",
+    "text": "Links\nTo be added."
   }
 ]

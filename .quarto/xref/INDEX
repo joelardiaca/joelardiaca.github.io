@@ -22,5 +22,14 @@
   },
   "blog.qmd": {
     "blog.html": "d0d0356c"
+  },
+  "publications/bridging-the-age-gap.qmd": {
+    "bridging-the-age-gap.html": "6da26685"
+  },
+  "publications/public-support-for-climate-policies.qmd": {
+    "public-support-for-climate-policies.html": "3de44c43"
+  },
+  "research.qmd": {
+    "research.html": "9322d9ad"
   }
 }

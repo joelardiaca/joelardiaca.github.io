@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       - href: blog.qmd
         text: Blog
       - href: cv.qmd
@@ -21,6 +23,5 @@ format:
       - cosmo
       - brand
     css: styles.css
-
 
 
