@@ -1,0 +1,15 @@
+---
+title: "The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels"
+---
+
+## Citation
+
+Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J. The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels.
+
+## Abstract
+
+Recruiting participants to probability-based online panels is increasingly difficult. Drawing on social exchange, leverage-salience, and prospect theory, four large-scale field experiments in Finland, Sweden, and Spain (2022–2023) were designed to assess whether targeted appeals and framing strategies could improve cooperation. Contrary to expectations, neither targeting nor framing consistently improved recruitment rates, reduced nonresponse bias, or lowered administration costs. In one case, territorial targeting with a loss frame in Catalonia produced higher recruitment but at the expense of representativeness. These findings establish boundary conditions for established theories. Whereas targeting and framing can matter in survey invitations, they have limited impact on panel recruitment, where leverage is low and message salience is weak. Our results contribute to survey methodology by showing that small textual interventions are insufficient to make a difference for panel recruitment and point toward the need for stronger, more salient, and context-sensitive designs to improve online probability panel recruitment.
+
+## Links
+
+_To be added._

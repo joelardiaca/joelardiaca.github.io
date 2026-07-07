@@ -31,5 +31,11 @@
   },
   "research.qmd": {
     "research.html": "9322d9ad"
+  },
+  "publications/improving-representativeness-recruitment-ASD.qmd": {
+    "improving-representativeness-recruitment-ASD.html": "66dce299"
+  },
+  "publications/targeting_framing_recruitment.qmd": {
+    "targeting_framing_recruitment.html": "baeb3605"
   }
 }

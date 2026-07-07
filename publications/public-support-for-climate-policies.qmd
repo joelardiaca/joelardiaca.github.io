@@ -8,7 +8,8 @@ Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). Public Support for Climate P
 
 ## Abstract
 
-_To be added._
+Securing public support for climate policies remains a major challenge. Citizens’ perceptions of the costs, benefits, and distributive consequences of these policies are key factors shaping their attitudes, yet how these dimensions interact remains insufficiently understood. This question is addressed through two experimental studies in Spain. Study 1 embeds a vignette experiment in two surveys to analyse how exposure to the costs or benefits of ten climate policies affects support. Cost framing significantly reduces support, whereas benefit framing has only a modest positive effect. Study 2 implements a conjoint experiment to examine how costs, benefits, and redistributive implications jointly influence preferences for climate policy packages. Results confirm previous evidence regarding costs and benefits and highlight the central role of redistribution: citizens strongly favour policies improving the situation of the poorest, while ideological divides reveal that left-wing voters are more supportive and sensitive to redistributive cues.
+
 
 ## Links
 

@@ -1,0 +1,15 @@
+---
+title: "Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design"
+---
+
+## Citation
+
+Ardiaca, J., Muñoz, J., Tormos, R. Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design.
+
+## Abstract
+
+This paper evaluates the application of Adaptive Survey Design (ASD) to improve representativeness during the recruitment phase of the Catalan Citizen Panel, a probability-based push-to-web+paper panel in Catalonia. Using randomized experiments and predictive modeling on over 120,000 sampled individuals across six waves, we estimate treatment-specific response propensities and allocate recruitment efforts accordingly. Our optimization framework aims to maximize representativeness, under realistic budget constraints. Simulations suggest that ASD-based treatment assignment improves representativity compared to random or uniform allocation, with minimal impact on overall response rates. The findings offer a practical path for implementing data-driven recruitment strategies in public opinion research.
+
+## Links
+
+_To be added._

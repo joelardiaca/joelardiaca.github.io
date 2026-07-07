@@ -2,25 +2,21 @@
 title: "Research"
 ---
 
-The entries below mirror the research articles section of my CV. Peer-reviewed papers have dedicated pages with room to add abstracts, links, and related material later on.
-
 ## Peer-Reviewed
 
-### Forthcoming
+### Forthcoming 
 
-- [Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides](publications/public-support-for-climate-policies.qmd)  
-  Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides. Accepted at *West European Politics*.
+- Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). [Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides](publications/public-support-for-climate-policies.qmd). Accepted at *West European Politics*.
 
-- [Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest](publications/bridging-the-age-gap.qmd)  
-  Tormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest. Conditionally accepted at *Political Science Research and Methods*.
+- Tormos, R., Galais, C., Ardiaca, J. (forthcoming). [Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest](publications/bridging-the-age-gap.qmd). Conditionally accepted at *Political Science Research and Methods*.
 
 ## Under Review
 
-- Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J. The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels. *Field Methods*, R&R.
+- Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J. [The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels](publications/targeting_framing_recruitment.qmd). *Field Methods*, R&R.
 
 ## Work in Progress
 
-- Ardiaca, J., Muñoz, J., Tormos, R. Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design: Evidence from the Catalan Citizen Panel.
+- Ardiaca, J., Muñoz, J., Tormos, R. [Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design](publications/improving-representativeness-recruitment-ASD.qmd).
 - Guinjoan, M., Ardiaca, J., Falcó, A., Muñoz, J., Rodon, T., Romanin, E. Attribution is not enough: Natural Disasters, Climate Attitudes and Policy Preferences.
 - Ardiaca, J. Nonresponse bias in conspiracy beliefs.
 - Ardiaca, J., Müller, K. Political Drivers of Survey Nonresponse: The Role of Attitudes and Local Political Context.

@@ -8,7 +8,7 @@ Tormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Imp
 
 ## Abstract
 
-_To be added._
+This study examines the age gap in political interest, exploring the possibility that the observed differences between age groups arise from the broad, unspecified nature of survey questions that refer generically to "politics." A randomized survey experiment asked about political interest in general (control) or prompted individuals with youth-centric issues in Spain (housing, labour precarity), traditional topics (elections, parties), and contemporary issues (climate change, gender equality). Results show youth-centric topics significantly reduce the age gap, while traditional issues widen it. Contemporary issues had little effect. These findings suggest that standard survey questions used to measure political interest may inadvertently overstate the extent of youth disengagement. While not the sole explanation, this measurement effect substantially contributes to the age gap and highlights the need to align survey instruments—and broader political discourse—with issues more salient to younger audiences.
 
 ## Links
 
