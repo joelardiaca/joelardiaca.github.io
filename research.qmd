@@ -4,7 +4,7 @@ title: "Research"
 
 ## Peer-Reviewed
 
-1. Guinjoan, M., Rodon, T., Ardiaca, J. (forthcoming). [Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides](publications/public-support-for-climate-policies.qmd). Accepted at *West European Politics*.
+1. Guinjoan, M., Rodon, T., Ardiaca, J. (2026). [Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides](publications/public-support-for-climate-policies.qmd). *West European Politics*. DOI: [10.1080/01402382.2026.2701769](https://www.tandfonline.com/doi/full/10.1080/01402382.2026.2701769).
 
 2. Tormos, R., Galais, C., Ardiaca, J. (forthcoming). [Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest](publications/bridging-the-age-gap.qmd). Conditionally accepted at *Political Science Research and Methods*.
 
