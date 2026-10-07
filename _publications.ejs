@@ -1,0 +1,12 @@
+<%
+// Renders research items as a citation list. Fields come from each item's
+// front matter (or publications/no-page.yml): pub-authors, pub-year,
+// pub-venue, pub-doi. Set template-params: {numbered: true} for an <ol>.
+// Each <li> is kept on one line so Pandoc doesn't split it into paragraphs.
+const tag = templateParams && templateParams.numbered ? 'ol' : 'ul';
+%>
+<<%= tag %> class="pub-list">
+<% for (const item of items) { %>
+<li <%= metadataAttrs(item) %>><%= item['pub-authors'] %><% if (item['pub-year']) { %> (<%= item['pub-year'] %>).<% } %> <% if (item.path) { %><a href="<%- item.path %>"><%= item.title %></a><% } else { %><%= item.title %><% } %>.<% if (item['pub-venue']) { %> <%= item['pub-venue'] %>.<% } %><% if (item['pub-doi']) { %> DOI: <a href="https://doi.org/<%- item['pub-doi'] %>"><%= item['pub-doi'] %></a>.<% } %></li>
+<% } %>
+</<%= tag %>>

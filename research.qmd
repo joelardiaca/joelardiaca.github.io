@@ -1,22 +1,48 @@
 ---
 title: "Research"
+listing:
+  - id: pubs-peer-reviewed
+    contents: &pubs
+      - publications/*.qmd
+      - publications/no-page.yml
+    include:
+      pub-section: peer-reviewed
+    sort: pub-order
+    type: custom
+    template: _publications.ejs
+    template-params:
+      numbered: true
+  - id: pubs-work-in-progress
+    contents: *pubs
+    include:
+      pub-section: work-in-progress
+    sort: pub-order
+    type: custom
+    template: _publications.ejs
+  - id: pubs-other
+    contents: *pubs
+    include:
+      pub-section: other
+    sort: pub-order
+    type: custom
+    template: _publications.ejs
+    template-params:
+      numbered: true
 ---
+
+<!-- Citations live in each publications/*.qmd front matter (or publications/no-page.yml). -->
 
 ## Peer-Reviewed
 
-1. Guinjoan, M., Rodon, T., Ardiaca, J. (2026). [Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides](publications/public-support-for-climate-policies.qmd). *West European Politics*. DOI: [10.1080/01402382.2026.2701769](https://www.tandfonline.com/doi/full/10.1080/01402382.2026.2701769).
-
-2. Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J., Grönlund, K. (forthcoming). [The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels](publications/targeting_framing_recruitment.qmd). Accepted for publication at *Field Methods*.
-
-3. Tormos, R., Galais, C., Ardiaca, J. (forthcoming). [Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest](publications/bridging-the-age-gap.qmd). Conditionally accepted at *Political Science Research and Methods*.
+::: {#pubs-peer-reviewed}
+:::
 
 ### Work in Progress
 
-- Ardiaca, J., Muñoz, J., Tormos, R. [Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design: Evidence from the Catalan Citizen Panel](publications/improving-representativeness-recruitment-ASD.qmd).
-- Guinjoan, M., Ardiaca, J., Falcó, A., Muñoz, J., Rodon, T., Romanin, E. Attribution is not enough: Natural Disasters, Climate Attitudes and Policy Preferences.
-- Ardiaca, J. Nonresponse bias in conspiracy beliefs.
-- Ardiaca, J., Müller, K. Political Drivers of Survey Nonresponse: The Role of Attitudes and Local Political Context.
+::: {#pubs-work-in-progress}
+:::
 
 ## Other Publications
 
-1. Muñoz, J. & Ardiaca, J. (2025). El comportamiento político y electoral en España. In Reniu, J.M. (Ed.) _Manual del Sistema Político Español_ (pp. 395--422). Atelier.
+::: {#pubs-other}
+:::

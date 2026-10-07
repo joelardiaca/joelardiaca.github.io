@@ -1,10 +1,15 @@
 ---
 title: "Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest"
+pub-section: peer-reviewed
+pub-order: 3
+pub-authors: "Tormos, R., Galais, C., Ardiaca, J."
+pub-year: "forthcoming"
+pub-venue: "Conditionally accepted at *Political Science Research and Methods*"
 ---
 
 ## Citation
 
-Tormos, R., Galais, C., Ardiaca, J. (forthcoming). Bridging the Age Gap: The Impact of Age-Specific Priming on Political Interest. Conditionally accepted at *Political Science Research and Methods*.
+{{< meta pub-authors >}} ({{< meta pub-year >}}). {{< meta title >}}. {{< meta pub-venue >}}.
 
 ## Abstract
 

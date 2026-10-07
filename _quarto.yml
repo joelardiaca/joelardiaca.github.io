@@ -4,7 +4,13 @@ project:
 
 website:
   title: "Joel Ardiaca"
-  page-footer: | 
+  site-url: https://joelardiaca.github.io/
+  description: "Personal website of Joel Ardiaca: research on survey methodology, nonresponse, and public opinion."
+  favicon: images/Foto_corporativa_rodona.png
+  image: images/Foto_corporativa_rodona.png
+  open-graph: true
+  twitter-card: true
+  page-footer: |
     *Built with [Quarto](https://quarto.org)*
   navbar:
     left:
@@ -19,9 +25,5 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-
-

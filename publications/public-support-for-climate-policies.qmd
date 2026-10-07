@@ -1,10 +1,16 @@
 ---
 title: "Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides"
+pub-section: peer-reviewed
+pub-order: 1
+pub-authors: "Guinjoan, M., Rodon, T., Ardiaca, J."
+pub-year: "2026"
+pub-venue: "*West European Politics*"
+pub-doi: "10.1080/01402382.2026.2701769"
 ---
 
 ## Citation
 
-Guinjoan, M., Rodon, T., Ardiaca, J. (2026). Public Support for Climate Policies: Costs, Redistribution, and Ideological Divides. *West European Politics*. DOI: [10.1080/01402382.2026.2701769](https://www.tandfonline.com/doi/full/10.1080/01402382.2026.2701769).
+{{< meta pub-authors >}} ({{< meta pub-year >}}). {{< meta title >}}. {{< meta pub-venue >}}. DOI: [{{< meta pub-doi >}}](https://doi.org/{{< meta pub-doi >}}).
 
 ## Abstract
 
@@ -12,4 +18,4 @@ Securing public support for climate policies remains a major challenge. Citizens
 
 ## Links
 
-DOI: [10.1080/01402382.2026.2701769](https://www.tandfonline.com/doi/full/10.1080/01402382.2026.2701769)
+DOI: [{{< meta pub-doi >}}](https://doi.org/{{< meta pub-doi >}})

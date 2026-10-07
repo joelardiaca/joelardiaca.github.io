@@ -1,5 +1,6 @@
 ---
 title: "Joel Ardiaca"
+image: images/Foto_corporativa_rodona.png
 about:
   template: jolla
   image: images/Foto_corporativa_rodona.png
@@ -21,6 +22,10 @@ about:
 
 <a href="https://www.linkedin.com/in/joel-ardiaca-arnau-516791174/" target="_blank" rel="noopener noreferrer">
   <img src="images/linkedin_logo.svg" alt="LinkedIn" style="height: 22px;">
+</a>
+
+<a href="mailto:joel.ardiaca.1999@gmail.com">
+  <img src="images/email.svg" alt="Email" style="height: 22px;">
 </a>
 
 <a href="https://orcid.org/0009-0004-4937-8941" target="_blank" rel="noopener noreferrer">

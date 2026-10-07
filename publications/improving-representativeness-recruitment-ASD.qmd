@@ -1,10 +1,13 @@
 ---
 title: "Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design: Evidence from the Catalan Citizen Panel"
+pub-section: work-in-progress
+pub-order: 1
+pub-authors: "Ardiaca, J., Muñoz, J., Tormos, R."
 ---
 
 ## Citation
 
-Ardiaca, J., Muñoz, J., Tormos, R. Improving Representativeness in Probability-Based Panel Recruitment through Adaptive Survey Design: Evidence from the Catalan Citizen Panel.
+{{< meta pub-authors >}} {{< meta title >}}.
 
 ## Abstract
 

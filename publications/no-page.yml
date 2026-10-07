@@ -1,0 +1,24 @@
+# Research items that don't have their own page.
+# Items with a page keep these same fields in their own front matter.
+
+- title: "Attribution is not enough: Natural Disasters, Climate Attitudes and Policy Preferences"
+  pub-section: work-in-progress
+  pub-order: 2
+  pub-authors: "Guinjoan, M., Ardiaca, J., Falcó, A., Muñoz, J., Rodon, T., Romanin, E."
+
+- title: "Nonresponse bias in conspiracy beliefs"
+  pub-section: work-in-progress
+  pub-order: 3
+  pub-authors: "Ardiaca, J."
+
+- title: "Political Drivers of Survey Nonresponse: The Role of Attitudes and Local Political Context"
+  pub-section: work-in-progress
+  pub-order: 4
+  pub-authors: "Ardiaca, J., Müller, K."
+
+- title: "El comportamiento político y electoral en España"
+  pub-section: other
+  pub-order: 1
+  pub-authors: "Muñoz, J. & Ardiaca, J."
+  pub-year: "2025"
+  pub-venue: "In Reniu, J.M. (Ed.) *Manual del Sistema Político Español* (pp. 395–422). Atelier"

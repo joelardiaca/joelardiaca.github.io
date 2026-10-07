@@ -1,10 +1,15 @@
 ---
 title: "The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels"
+pub-section: peer-reviewed
+pub-order: 2
+pub-authors: "Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J., Grönlund, K."
+pub-year: "forthcoming"
+pub-venue: "Accepted for publication at *Field Methods*"
 ---
 
 ## Citation
 
-Backström, K., Lundmark, S., Vento, I., Tormos, R., Cassel, F., Sirén, R., Backström, J., Ardiaca, J., Strandberg, K., Muñoz, J., Grönlund, K. (forthcoming). The Effect of Targeting and Framing on Panel Recruitment: A Comparison Across Three Countries and Four Panels. Accepted for publication at *Field Methods*.
+{{< meta pub-authors >}} ({{< meta pub-year >}}). {{< meta title >}}. {{< meta pub-venue >}}.
 
 ## Abstract
 
